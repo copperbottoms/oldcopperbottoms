@@ -7,11 +7,9 @@
   </a>
 </p>
 
-<p align="center">$\color{#50DABB}{𐂯}$ $\color{#50DABB}{B}$ $\color{#50DABB}{H}$ $\color{#50DABB}{G}$ $\color{#50DABB}{𐂯}$
-
-<p align="center">$\color{#50DABB}{♫}$
+<p align="center"
 
 <p align="center"> <img width="135" height="76" 76="image" src="https://github.com/user-attachments/assets/9b2fcd27-94a4-481e-a38c-b3eecb79282e" /> <img width="135" height="76" alt="image" src="https://github.com/user-attachments/assets/65392ba4-c027-43d6-a98c-779c93d075e5" />
 
-
+<p align="center"> <img width="388" height="345" alt="image" src="https://github.com/user-attachments/assets/c4dfd832-46b0-46c1-a126-d7cac4f8f15f" />
 
